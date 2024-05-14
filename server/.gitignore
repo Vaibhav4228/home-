@@ -4,8 +4,12 @@
 /node_modules
 /.pnp
 .pnp.js
+<<<<<<< HEAD
 .env
 node_modules
+=======
+
+>>>>>>> origin/main
 # testing
 /coverage
 
